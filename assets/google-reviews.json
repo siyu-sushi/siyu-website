@@ -1,0 +1,75 @@
+{
+  "rating": 5,
+  "reviewCount": 41,
+  "checkedAt": "2026-10-13",
+  "source": "https://www.google.com/maps?cid=2983189074600806047",
+  "displayedReviewCount": 5,
+  "selection": "Public Google place response; five reviews returned",
+  "reviews": [
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25KclpFOVVibTV2UVV4dU4zQktRelV0ZW1sVFVIYxAB",
+      "author": "Phachara Butlanchang",
+      "profileUrl": "https://www.google.com/maps/contrib/107231617712007103753?hl=de",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25KclpFOVVibTV2UVV4dU4zQktRelV0ZW1sVFVIYxAB!2m1!1s0x0:0x29666aa86168469f!3m1!1s2@1:CAIQACodChtycF9oOnJrZE9Ubm5vQUxuN3BKQzUtemlTUHc%7C%7C?hl=de",
+      "avatar": "assets/review-avatars/cffa52af924a.webp",
+      "reviewCount": 2,
+      "photoCount": 5,
+      "rating": 5,
+      "date": "2026-06-09",
+      "text": "Absolut empfehlenswert! Das Essen war frisch, sehr lecker und schön angerichtet. Besonders das Sushi hat uns begeistert. Der Service war freundlich und aufmerksam, und das…",
+      "isExcerpt": true
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2t3ek16WXdkREExYUUxZlZXUkhhSEZTYVhkRFlYYxAB",
+      "author": "Irina Gibert",
+      "profileUrl": "https://www.google.com/maps/contrib/111059475758011955080?hl=de",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t3ek16WXdkREExYUUxZlZXUkhhSEZTYVhkRFlYYxAB!2m1!1s0x0:0x29666aa86168469f!3m1!1s2@1:CAIQACodChtycF9oOkwzMzYwdDA1aE1fVWRHaHFSaXdDYXc%7C%7C?hl=de",
+      "avatar": "assets/review-avatars/4fddf34c5255.webp",
+      "reviewCount": 3,
+      "photoCount": 9,
+      "rating": 5,
+      "date": "2026-05-14",
+      "text": "Sehr sehr leckeres Essen, super nette Mitarbeiter und die allerbesten Sushi. Super zufrieden gewesen 👍🏼👍🏼👍🏼",
+      "isExcerpt": false
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21GeFJreHhjVEI1VTNZell6STVURzlKVDI1T2IzYxAB",
+      "author": "leonora betschart ivy",
+      "profileUrl": "https://www.google.com/maps/contrib/115319859891120446779?hl=de",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GeFJreHhjVEI1VTNZell6STVURzlKVDI1T2IzYxAB!2m1!1s0x0:0x29666aa86168469f!3m1!1s2@1:CAIQACodChtycF9oOmFxRkxxcTB5U3YzYzI5TG9JT25Ob3c%7C%7C?hl=de",
+      "avatar": "assets/review-avatars/c5b807abab0e.webp",
+      "reviewCount": 1,
+      "photoCount": 1,
+      "rating": 5,
+      "date": "2026-05-26",
+      "text": "Ich liebe die freundlich-familiäre Atmosphäre und esse jedesmal viel zu viel, weil das Sushi hier einfach etwas Besonderes ist.\nTolles Preis-Leistungsverhältnis!",
+      "isExcerpt": false
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pOUWIxWjJWblpoY1c5U1ZtdDNhMUF3T0ZsTFFuYxAB",
+      "author": "Adrianna Grzybek",
+      "profileUrl": "https://www.google.com/maps/contrib/116830294236984787464?hl=de",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pOUWIxWjJWblpoY1c5U1ZtdDNhMUF3T0ZsTFFuYxAB!2m1!1s0x0:0x29666aa86168469f!3m1!1s2@1:CAIQACodChtycF9oOjNQb1Z2VnZhcW9SVmt3a1AwOFlLQnc%7C%7C?hl=de",
+      "avatar": "assets/review-avatars/c286e9f5ef74.webp",
+      "reviewCount": 8,
+      "photoCount": 4,
+      "rating": 5,
+      "date": "2026-06-13",
+      "text": "Sehr gutes Essen und freundlicher Service. Die Preise sind absolut in Ordnung. Ich empfehle den Garnelen-Wok.",
+      "isExcerpt": false
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21kNFEzbGlZMko0VWxrM1ZFOWFNVEJTWkRKaWRsRRAB",
+      "author": "Elina",
+      "profileUrl": "https://www.google.com/maps/contrib/102449366689945114614?hl=de",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21kNFEzbGlZMko0VWxrM1ZFOWFNVEJTWkRKaWRsRRAB!2m1!1s0x0:0x29666aa86168469f!3m1!1s2@1:CAIQACodChtycF9oOmd4Q3liY2J4Ulk3VE9aMTBSZDJidlE%7C%7C?hl=de",
+      "avatar": "assets/review-avatars/d9783ae1135e.webp",
+      "reviewCount": 5,
+      "photoCount": 0,
+      "rating": 5,
+      "date": "2026-07-12",
+      "text": "Mit Abstand das beste Sushi in der Umgebung! 🍣 Die Qualität ist jedes Mal top, alles ist super frisch und unglaublich lecker. Dafür finde ich…",
+      "isExcerpt": true
+    }
+  ]
+}
